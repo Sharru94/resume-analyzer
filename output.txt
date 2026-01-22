@@ -1,0 +1,3 @@
+Matched Skills: solving, work, python, communication, team, problem, sql
+Missing Skills: analysis, learning, data, machine
+Match Percentage: 63.64%
